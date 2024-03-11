@@ -1,0 +1,15 @@
+﻿  DriverModel.cpp
+D:\CACC\CACC_lai\DriverModel.cpp(378,17): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  Link.cpp
+  Log.cpp
+D:\CACC\CACC_lai\Log.cpp(83,16): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\CACC\CACC_lai\Log.cpp(95,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\CACC\CACC_lai\Log.cpp(98,10): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Platoon.cpp
+  testCACC.cpp
+  testCACC_data.cpp
+  SimVehicle.cpp
+D:\CACC\CACC_lai\SimVehicle.cpp(75,4): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\CACC\CACC_lai\SimVehicle.cpp(586,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Socket_Server.cpp
+  正在生成代码...
