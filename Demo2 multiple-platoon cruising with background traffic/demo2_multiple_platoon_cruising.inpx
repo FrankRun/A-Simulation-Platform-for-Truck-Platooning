@@ -1904,7 +1904,7 @@
 	<scripts>
 		<script fromTime="0" funcName="WriteData" name="" no="1" period="1" runType="BEFSIMSTART" scope="SIMULATIONRUN" scriptFile="#data#trans_info.vbs" toTime="INF"/>
 	</scripts>
-	<simulation comment="" numCores="1" numRuns="10" randSeed="38" randSeedIncr="3" retroSync="false" simMode="MICRO" simPeriod="2700" simRes="10" simSpeed="10" startTm="0" useAllCores="false" useMaxSimSpeed="false" volumeIncrDynAssign="0"/>
+	<simulation comment="" numCores="1" numRuns="10" randSeed="38" randSeedIncr="3" retroSync="false" simMode="MICRO" simPeriod="2700" simRes="10" simSpeed="10" startTm="0" useAllCores="false" useMaxSimSpeed="true" volumeIncrDynAssign="0"/>
 	<timeDistributions>
 		<timeDistribution mean="0.5" name="0.5 s" no="1" stdDev="0" type="NORMAL"/>
 		<timeDistribution mean="0.9" name="0.9 s" no="2" stdDev="0" type="NORMAL"/>
@@ -2076,7 +2076,7 @@
 		</vehicleInput>
 	</vehicleInputs>
 	<vehicleTypes>
-		<vehicleType alightTm="0" anmFlag="false" boardTm="0" capExact="false" capacity="0" category="CAR" clearTmPT="0" colorDistr1="1" desAccelFunc="1" desDecelFunc="1" distCoeffPerMeter="0" doorClosDur="2" dwellTmIsAdd="true" equip="" extDriver="false" extDriverDLLFile="D:\上汽仿真平台论文\仿真实验\1、Truck platooning\CACC_driver_model  truck\x64\Debug\DriverModel.dll" extDriverParFile="" extEmissionDLLFile="F:\PTV Vissim 2021\API\EmissionModel_DLL\x64\Debug\EmissionModelExample.dll" linkCostCoeff="1" maxAccelFunc="1" maxDecelFunc="1" model2D3DDistr="10" name="Car" no="100" occupDistr="1" travTmCoeff="1" weightDistr="1">
+		<vehicleType alightTm="0" anmFlag="false" boardTm="0" capExact="false" capacity="0" category="CAR" clearTmPT="0" colorDistr1="1" desAccelFunc="1" desDecelFunc="1" distCoeffPerMeter="0" doorClosDur="2" dwellTmIsAdd="true" equip="" extDriver="false" extDriverDLLFile="D:\上汽仿真平台论文\仿真实验\1、Truck platooning\CACC_driver_model  truck\x64\Debug\DriverModel.dll" extDriverParFile="" extEmissionDLLFile="" linkCostCoeff="1" maxAccelFunc="1" maxDecelFunc="1" model2D3DDistr="10" name="Car" no="100" occupDistr="1" travTmCoeff="1" weightDistr="1">
 			<parkLotSelPars>
 				<parkingLotSelectionParameters attrac="0" avail="0" decSituation="DEPARTUREFROMPARKINGLOT" distFromDestM="0" genCost="0" parkFee="0"/>
 				<parkingLotSelectionParameters attrac="0" avail="0" decSituation="DYNAMICROUTINGDECISION" distFromDestM="0" genCost="0" parkFee="0"/>
