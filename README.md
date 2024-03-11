@@ -9,6 +9,6 @@ This repo contains:
 
 
 ## Getting started
-1) Read the user guide to know how to start the truck platoonging simulation;
+1) Read the user guide to know how to start the truck platooning simulation;
 2) Watch the simulation videos to gain a preliminary understanding of our simulation platform;
 3) Run the demos for a hands-on experience.
