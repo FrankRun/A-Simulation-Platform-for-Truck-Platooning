@@ -15,8 +15,8 @@ This repo contains:
 
 ## Demo 1: Single-platoon lane-changing with background traffic
 Demo 1 shows the lane-changing behavior of the truck platoon and its interaction with background traffic.
-![img]https://github.com/FrankRun/A-Simulation-Platform-for-Truck-Platooning/blob/main/Video/demo1_video%20.gif
+![img](https://github.com/FrankRun/A-Simulation-Platform-for-Truck-Platooning/blob/main/Video/demo1_video%20.gif)
 
 ## Demo 2: Multiple-platoon cruising with background traffic
 Demo 2 shows the platoon maneuvers, such as formation and splitting, within mixed traffic scenario.
-![img]https://github.com/FrankRun/A-Simulation-Platform-for-Truck-Platooning/blob/main/Video/demo2_video.gif
+![img](https://github.com/FrankRun/A-Simulation-Platform-for-Truck-Platooning/blob/main/Video/demo2_video.gif)
