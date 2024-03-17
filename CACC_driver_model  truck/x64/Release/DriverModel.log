@@ -1,15 +1,20 @@
 ﻿  DriverModel.cpp
-D:\CACC\CACC_lai\DriverModel.cpp(378,17): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Head\Decision Maker.h(2,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\DriverModel.cpp(355,17): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+  Control.cpp
+  Decision Maker.cpp
+D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Head\Decision Maker.h(2,1): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
   Link.cpp
   Log.cpp
-D:\CACC\CACC_lai\Log.cpp(83,16): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
-D:\CACC\CACC_lai\Log.cpp(95,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-D:\CACC\CACC_lai\Log.cpp(98,10): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Source\Log.cpp(83,16): warning C4834: 放弃具有 "nodiscard" 属性的函数的返回值
+D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Source\Log.cpp(95,13): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Source\Log.cpp(98,10): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MercedesBenz.cpp
+  MercedesBenz_data.cpp
   Platoon.cpp
-  testCACC.cpp
-  testCACC_data.cpp
+  Read.cpp
   SimVehicle.cpp
-D:\CACC\CACC_lai\SimVehicle.cpp(75,4): error C2143: 语法错误: 缺少“;”(在“}”的前面)
-D:\CACC\CACC_lai\SimVehicle.cpp(586,23): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-  Socket_Server.cpp
+  VehicleDynamicModel.cpp
   正在生成代码...
+    正在创建库 D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Lib\Release\DriverModel.lib 和对象 D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Lib\Release\DriverModel.exp
+  DriverModel.vcxproj -> D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\x64\Release\DriverModel.dll

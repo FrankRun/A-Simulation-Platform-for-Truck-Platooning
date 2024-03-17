@@ -88,10 +88,10 @@
     <IncludePath>E:\eigen-3.3.8\eigen-3.3.8;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Source;D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Head;D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\eigen-3.3.8\eigen-3.3.8\eigen-3.3.8;$(IncludePath)</IncludePath>
+    <IncludePath>$(ProjectDir);$(ProjectDir)Source;$(ProjectDir)Head;$(ProjectDir)eigen-3.3.8\eigen-3.3.8\eigen-3.3.8;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>E:\eigen-3.3.8\eigen-3.3.8;$(IncludePath)</IncludePath>
+    <IncludePath>$(ProjectDir);$(ProjectDir)Source;$(ProjectDir)Head;$(ProjectDir)eigen-3.3.8\eigen-3.3.8\eigen-3.3.8;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -151,7 +151,7 @@
       <WarningLevel>Level3</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
-      <AdditionalIncludeDirectories>D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Head;D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\Source;D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\eigen-3.3.8\eigen-3.3.8\eigen-3.3.8;$(ProjectDir);$(ProjectDir)Simulink</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)Head;$(ProjectDir)Source;$(ProjectDir)eigen-3.3.8\eigen-3.3.8\eigen-3.3.8;$(ProjectDir);$(ProjectDir)Simulink</AdditionalIncludeDirectories>
       <SDLCheck>false</SDLCheck>
     </ClCompile>
     <Link>
@@ -237,7 +237,7 @@
       <ProgramDataBaseFileName>$(SolutionDir)Temp\$(Configuration)\$(ProjectName)\$(ProjectName)</ProgramDataBaseFileName>
       <WarningLevel>Level3</WarningLevel>
       <SuppressStartupBanner>true</SuppressStartupBanner>
-      <AdditionalIncludeDirectories>E:\eigen-3.3.8\eigen-3.3.8;$(ProjectDir);$(ProjectDir)Simulink</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(ProjectDir)Source;$(ProjectDir)Head;$(ProjectDir)eigen-3.3.8\eigen-3.3.8\eigen-3.3.8;$(ProjectDir);$(ProjectDir)Simulink</AdditionalIncludeDirectories>
       <SDLCheck>false</SDLCheck>
     </ClCompile>
     <Link>

@@ -1,1 +1,2 @@
 D:\学习资料\CACC_lai\x64\Release\DriverModel.dll
+D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\x64\Release\DriverModel.dll
