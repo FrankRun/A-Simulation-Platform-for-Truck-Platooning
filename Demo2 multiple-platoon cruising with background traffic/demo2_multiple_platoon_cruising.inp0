@@ -2140,7 +2140,7 @@
 				<parkingLotSelectionParameters attrac="0" avail="0" decSituation="ROUTEGUIDANCETACTIC2" distFromDestM="0" genCost="0" parkFee="0"/>
 			</parkLotSelPars>
 		</vehicleType>
-		<vehicleType alightTm="0" anmFlag="false" boardTm="0" capExact="false" capacity="9999" category="HGV" clearTmPT="0" colorDistr1="1" desAccelFunc="7" desDecelFunc="7" distCoeffPerMeter="0" doorClosDur="2" dwellTmIsAdd="true" equip="" extDriver="true" extDriverDLLFile="D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\x64\Debug\DriverModel.dll" extDriverParFile="" extEmissionDLLFile="" linkCostCoeff="1" maxAccelFunc="7" maxDecelFunc="7" model2D3DDistr="20" name="Platooning Truck" no="700" occupDistr="1" powerDistr="2" travTmCoeff="1" weightDistr="2">
+		<vehicleType alightTm="0" anmFlag="false" boardTm="0" capExact="false" capacity="9999" category="HGV" clearTmPT="0" colorDistr1="1" desAccelFunc="7" desDecelFunc="7" distCoeffPerMeter="0" doorClosDur="2" dwellTmIsAdd="true" equip="" extDriver="true" extDriverDLLFile="D:\卡车编队仿真平台论文\论文\期刊论文\IEEE TITS Revision2\Demo\CACC_driver_model  truck\x64\Release\DriverModel.dll" extDriverParFile="" extEmissionDLLFile="" linkCostCoeff="1" maxAccelFunc="7" maxDecelFunc="7" model2D3DDistr="20" name="Platooning Truck" no="700" occupDistr="1" powerDistr="2" travTmCoeff="1" weightDistr="2">
 			<parkLotSelPars>
 				<parkingLotSelectionParameters attrac="0" avail="0" decSituation="DEPARTUREFROMPARKINGLOT" distFromDestM="0" genCost="0" parkFee="0"/>
 				<parkingLotSelectionParameters attrac="0" avail="0" decSituation="DYNAMICROUTINGDECISION" distFromDestM="0" genCost="0" parkFee="0"/>
