@@ -1,12 +1,13 @@
-# A-Simulation-Platform-for-Truck-Platooning
+# A Simulation Platform for Truck Platooning Evaluation in an Interactive Traffic Environment
+**Jia Hu, Xuerun Yan, Guan Wang, Xianhong Zhang, Hong Wang, Jintao Lai**  
+[Paper](https://ieeexplore.ieee.org/abstract/document/10508262)
+
 This repository is to release a simulation platform for truck platooning evaluation in an interactive traffic environment. 
 This repo contains: 
 1) A user guide;
 2) Truck platooning model;
 3) Two simulation demos;
 4) Two simulation videos of the above demos.
-
-
 
 ## Getting started
 1) Read the user guide to know how to start the truck platooning simulation;
