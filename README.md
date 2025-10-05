@@ -1,6 +1,6 @@
 # A Simulation Platform for Truck Platooning Evaluation in an Interactive Traffic Environment
 **Jia Hu, Xuerun Yan, Guan Wang, Xianhong Zhang, Hong Wang, Jintao Lai**  
-:Simile:**IEEE Transactions on Intelligent Transportation Systems**
+:simile:**IEEE Transactions on Intelligent Transportation Systems**
 [Paper](https://ieeexplore.ieee.org/abstract/document/10508262)
 
 This repository is to release a simulation platform for truck platooning evaluation in an interactive traffic environment. 
