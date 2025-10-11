@@ -11,6 +11,7 @@
 - Capability of evaluating the impact of interactive background traffic on platoon performance;
 - Capability of evaluating the impact of truck platoon management on traffic mobility.
 
+## Outline
 This repository is to release a simulation platform for truck platooning evaluation in an interactive traffic environment. 
 This repo contains: 
 1) A user guide;
