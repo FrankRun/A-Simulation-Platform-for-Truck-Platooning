@@ -1,11 +1,9 @@
 # A Simulation Platform for Truck Platooning Evaluation in an Interactive Traffic Environment
 **Jia Hu, Xuerun Yan, Guan Wang, Xianhong Zhang, Hong Wang, Jintao Lai**  
-:smile:**IEEE Transactions on Intelligent Transportation Systems**
-:clap: Best Paper in 4th ISFO Paper Competition
-[Paper](https://ieeexplore.ieee.org/abstract/document/10508262)  
-![img](https://github.com/FrankRun/A-Simulation-Platform-for-Truck-Platooning/blob/main/image/framework.svg)
+:smile:**IEEE Transactions on Intelligent Transportation Systems**[Paper](https://ieeexplore.ieee.org/abstract/document/10508262)  
+:clap: **Best Paper in 4th ISFO Paper Competition**
 
-##Feature
+## Feature
 - Compatibility with various platooning decision makers, planners, controllers, vehicle types and platoon managements;
 - Capability of evaluating platoon performance on the lateral dimension;
 - Prototype platoon management system provided for FOs;
